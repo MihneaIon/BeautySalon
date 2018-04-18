@@ -1,0 +1,8 @@
+7
+eyeliner 3.50
+mascara 8.20
+extensions 19.00
+shampoo 10.40
+shower_gel 15.9
+lipstick 20.5
+hair_spray 15

@@ -1,0 +1,7 @@
+6
+hairdressing 140.4
+haircut 80.5
+manicure 13.8
+makeup 20
+massage 85.5
+sauna 60.70
